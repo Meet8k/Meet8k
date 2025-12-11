@@ -1,4 +1,4 @@
-## Hi there 👋
+## 遇见8K，喜爱8K 👋
 
 <!--
 **Meet8k/Meet8k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
